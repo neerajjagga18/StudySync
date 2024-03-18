@@ -1,0 +1,2 @@
+# StudySync
+My first website. 
